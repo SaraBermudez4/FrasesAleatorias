@@ -19,10 +19,11 @@ const StyledCard = styled(Jumbotron)`
     left: 50%; 
     margin-top: -200px; 
     margin-left: -300px; 
-    @media (min-width: 320px) and (max-width: 480px) {
-        top: 35%;
-        left: 100%;
-        width: auto;
+//(min-width: 320px)
+    @media screen and (max-width: 480px) {
+    top: 35%;
+    left: 100%;
+    width: auto;
     }
 `
 const StyledFrase = styled.div`
@@ -49,15 +50,15 @@ const StyledButtonCita = styled.a`
     margin-right:5px;
     color:white;
     &:hover{
-        color:white;
-        box-shadow: inset 0px 0px 10px 0px #ffffff;
+    color:white;
+    box-shadow: inset 0px 0px 10px 0px #ffffff;
     }
 `
 
 const StyledContainer = styled(Container)`
     padding: 25% 50% 25%;
     @media (min-width: 320px) and (max-width: 480px) {
-        padding: 70% 15% 100% 75%;
+    padding: 70% 15% 100% 75%;
     }
 
 `
