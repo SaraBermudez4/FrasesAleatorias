@@ -19,7 +19,7 @@ const StyledCard = styled(Jumbotron)`
     left: 50%; 
     margin-top: -200px; 
     margin-left: -300px; 
-    transition: background-color 1s ease 0s;
+    transition: background-color 1s ease-in-out 0s;
 //(min-width: 320px)
     @media screen and (max-width: 480px) {
     top: 35%;
@@ -58,7 +58,7 @@ const StyledButtonCita = styled.a`
 
 const StyledContainer = styled(Container)`
     padding: 25% 50% 25%;
-    transition: background-color 1s ease 0s;
+    transition: background-color 1s ease-in-out 0s;
     @media (min-width: 320px) and (max-width: 480px) {
     padding: 70% 15% 100% 75%;
     }
