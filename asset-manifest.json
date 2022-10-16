@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/FrasesAleatorias/static/js/main.26cfa944.chunk.js",
-    "main.js.map": "/FrasesAleatorias/static/js/main.26cfa944.chunk.js.map",
+    "main.js": "/FrasesAleatorias/static/js/main.c794cd46.chunk.js",
+    "main.js.map": "/FrasesAleatorias/static/js/main.c794cd46.chunk.js.map",
     "runtime-main.js": "/FrasesAleatorias/static/js/runtime-main.c090f8d4.js",
     "runtime-main.js.map": "/FrasesAleatorias/static/js/runtime-main.c090f8d4.js.map",
     "static/css/2.800be05e.chunk.css": "/FrasesAleatorias/static/css/2.800be05e.chunk.css",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.c090f8d4.js",
     "static/css/2.800be05e.chunk.css",
     "static/js/2.4bfd15da.chunk.js",
-    "static/js/main.26cfa944.chunk.js"
+    "static/js/main.c794cd46.chunk.js"
   ]
 }
